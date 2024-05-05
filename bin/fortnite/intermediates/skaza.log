@@ -1,0 +1,341 @@
+﻿  main.cpp
+D:\cheet 2\cheet\includes\game\game.hpp(1504,22): error C2143: syntax error: missing ';' before '*'
+  (compiling source file 'main.cpp')
+  
+D:\cheet 2\cheet\includes\game\game.hpp(1436,1): error C2181: illegal else without matching if
+  (compiling source file 'main.cpp')
+  
+D:\cheet 2\cheet\includes\game\game.hpp(1504,31): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'main.cpp')
+  
+D:\cheet 2\cheet\includes\game\game.hpp(1504,41): error C2061: syntax error: identifier 'c_game'
+  (compiling source file 'main.cpp')
+  
+D:\cheet 2\cheet\dependencies\gui\imgui_internal.h(2750,95): error C2660: 'game::ImGui::GetForegroundDrawList': function does not take 0 arguments
+  (compiling source file 'main.cpp')
+  D:\cheet 2\cheet\dependencies\gui\imgui_internal.h(2750,24):
+  see declaration of 'game::ImGui::GetForegroundDrawList'
+  D:\cheet 2\cheet\dependencies\gui\imgui_internal.h(2750,95):
+  while trying to match the argument list '()'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xnode_handle.h(45,24): error C7568: argument list missing after assumed function template 'pair'
+  (compiling source file 'main.cpp')
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xnode_handle.h(45,24):
+  the template instantiation context (the oldest one first) is
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xnode_handle.h(33,8):
+  	while compiling class template 'game::std::_Node_handle_map_base'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xnode_handle.h(72,28): error C7568: argument list missing after assumed function template 'allocator_traits'
+  (compiling source file 'main.cpp')
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xnode_handle.h(72,28):
+  the template instantiation context (the oldest one first) is
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xnode_handle.h(66,7):
+  	while compiling class template 'game::std::_Node_handle'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xnode_handle.h(73,28): error C7568: argument list missing after assumed function template '_Rebind_alloc_t'
+  (compiling source file 'main.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xnode_handle.h(74,28): error C7568: argument list missing after assumed function template 'allocator_traits'
+  (compiling source file 'main.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xnode_handle.h(78,5): error C7568: argument list missing after assumed function template '_Aligned_storage_t'
+  (compiling source file 'main.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(27,31): error C2061: syntax error: identifier 'bidirectional_iterator_tag'
+  (compiling source file 'main.cpp')
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(27,31):
+  the template instantiation context (the oldest one first) is
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(25,7):
+  	while compiling class template 'game::std::_Tree_unchecked_const_iterator'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(105,32): error C2061: syntax error: identifier '_Default_sentinel'
+  (compiling source file 'main.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(105,21): error C2805: binary 'operator ==' has too few parameters
+  (compiling source file 'main.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(105,1): error C2333: 'game::std::_Tree_unchecked_const_iterator<_Mytree,_Base>::operator ==': error in function declaration; skipping function body
+  (compiling source file 'main.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(46,16): error C3861: 'pointer_traits': identifier not found
+  (compiling source file 'main.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(24,40): error C2065: '_Iterator_base0': undeclared identifier
+  (compiling source file 'main.cpp')
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(24,40):
+  the template instantiation context (the oldest one first) is
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(120,7):
+  	while compiling class template 'game::std::_Tree_unchecked_iterator'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(120,41): error C2923: 'game::std::_Tree_unchecked_const_iterator': '_Iterator_base0' is not a valid template type argument for parameter '_Base'
+  (compiling source file 'main.cpp')
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(24,40):
+  see declaration of '_Iterator_base0'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(120,41): error C2955: 'game::std::_Tree_unchecked_const_iterator': use of class template requires template argument list
+  (compiling source file 'main.cpp')
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(25,7):
+  see declaration of 'game::std::_Tree_unchecked_const_iterator'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(122,31): error C2923: 'game::std::_Tree_unchecked_const_iterator': '_Iterator_base0' is not a valid template type argument for parameter '_Base'
+  (compiling source file 'main.cpp')
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(24,40):
+  see declaration of '_Iterator_base0'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(123,31): error C2061: syntax error: identifier 'bidirectional_iterator_tag'
+  (compiling source file 'main.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(138,16): error C3861: 'pointer_traits': identifier not found
+  (compiling source file 'main.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(165,77): error C3861: '_Iterator_base': identifier not found
+  (compiling source file 'main.cpp')
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(165,77):
+  the template instantiation context (the oldest one first) is
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(165,7):
+  	while compiling class template 'game::std::_Tree_const_iterator'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(165,77): error C2065: '_Iterator_base': undeclared identifier
+  (compiling source file 'main.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(165,37): error C2923: 'game::std::_Tree_unchecked_const_iterator': '_Iterator_base' is not a valid template type argument for parameter '_Base'
+  (compiling source file 'main.cpp')
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(165,77):
+  see declaration of '_Iterator_base'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(165,37): error C2955: 'game::std::_Tree_unchecked_const_iterator': use of class template requires template argument list
+  (compiling source file 'main.cpp')
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(25,7):
+  see declaration of 'game::std::_Tree_unchecked_const_iterator'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(167,71): error C2065: '_Iterator_base': undeclared identifier
+  (compiling source file 'main.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(167,31): error C2923: 'game::std::_Tree_unchecked_const_iterator': '_Iterator_base' is not a valid template type argument for parameter '_Base'
+  (compiling source file 'main.cpp')
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(167,71):
+  see declaration of '_Iterator_base'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(168,31): error C2061: syntax error: identifier 'bidirectional_iterator_tag'
+  (compiling source file 'main.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(249,16): error C2923: 'game::std::_Tree_unchecked_const_iterator': '_Iterator_base0' is not a valid template type argument for parameter '_Base'
+  (compiling source file 'main.cpp')
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(24,40):
+  see declaration of '_Iterator_base0'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(249,56): error C2955: 'game::std::_Tree_unchecked_const_iterator': use of class template requires template argument list
+  (compiling source file 'main.cpp')
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(25,7):
+  see declaration of 'game::std::_Tree_unchecked_const_iterator'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(253,25): error C2923: 'game::std::_Tree_unchecked_const_iterator': '_Iterator_base0' is not a valid template type argument for parameter '_Base'
+  (compiling source file 'main.cpp')
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(24,40):
+  see declaration of '_Iterator_base0'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(253,65): error C2955: 'game::std::_Tree_unchecked_const_iterator': use of class template requires template argument list
+  (compiling source file 'main.cpp')
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(25,7):
+  see declaration of 'game::std::_Tree_unchecked_const_iterator'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(189,16): error C3861: 'pointer_traits': identifier not found
+  (compiling source file 'main.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(262,31): error C2061: syntax error: identifier 'bidirectional_iterator_tag'
+  (compiling source file 'main.cpp')
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(262,31):
+  the template instantiation context (the oldest one first) is
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(259,7):
+  	while compiling class template 'game::std::_Tree_iterator'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(278,16): error C3861: 'pointer_traits': identifier not found
+  (compiling source file 'main.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(323,24): error C7568: argument list missing after assumed function template '_Rebind_pointer_t'
+  (compiling source file 'main.cpp')
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(323,24):
+  the template instantiation context (the oldest one first) is
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(322,8):
+  	while compiling class template 'game::std::_Tree_node'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(344,23): error C3861: 'is_same_v': identifier not found
+  (compiling source file 'main.cpp')
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(343,21):
+  This diagnostic occurred in the compiler generated function 'game::std::_Tree_node<_Value_type,_Voidptr>::_Nodeptr game::std::_Tree_node<_Value_type,_Voidptr>::_Buyheadnode(_Alloc &)'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(358,38): error C3878: syntax error: unexpected token 'identifier' following 'expression'
+  (compiling source file 'main.cpp')
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(355,21):
+  This diagnostic occurred in the compiler generated function 'game::std::_Tree_node<_Value_type,_Voidptr>::_Nodeptr game::std::_Tree_node<_Value_type,_Voidptr>::_Buynode(_Alloc &,game::std::_Tree_node<_Value_type,_Voidptr>::_Nodeptr,_Valty &&...)'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(358,38): message : error recovery skipped: 'identifier ( identifier'
+  (compiling source file 'main.cpp')
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(355,21):
+  This diagnostic occurred in the compiler generated function 'game::std::_Tree_node<_Value_type,_Voidptr>::_Nodeptr game::std::_Tree_node<_Value_type,_Voidptr>::_Buynode(_Alloc &,game::std::_Tree_node<_Value_type,_Voidptr>::_Nodeptr,_Valty &&...)'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(358,50): error C2760: syntax error: ')' was unexpected here; expected ';'
+  (compiling source file 'main.cpp')
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(355,21):
+  This diagnostic occurred in the compiler generated function 'game::std::_Tree_node<_Value_type,_Voidptr>::_Nodeptr game::std::_Tree_node<_Value_type,_Voidptr>::_Buynode(_Alloc &,game::std::_Tree_node<_Value_type,_Voidptr>::_Nodeptr,_Valty &&...)'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(358,50): error C3878: syntax error: unexpected token ')' following 'expression_statement'
+  (compiling source file 'main.cpp')
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(355,21):
+  This diagnostic occurred in the compiler generated function 'game::std::_Tree_node<_Value_type,_Voidptr>::_Nodeptr game::std::_Tree_node<_Value_type,_Voidptr>::_Buynode(_Alloc &,game::std::_Tree_node<_Value_type,_Voidptr>::_Nodeptr,_Valty &&...)'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(358,50): message : error recovery skipped: ')'
+  (compiling source file 'main.cpp')
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(355,21):
+  This diagnostic occurred in the compiler generated function 'game::std::_Tree_node<_Value_type,_Voidptr>::_Nodeptr game::std::_Tree_node<_Value_type,_Voidptr>::_Buynode(_Alloc &,game::std::_Tree_node<_Value_type,_Voidptr>::_Nodeptr,_Valty &&...)'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(359,9): error C2065: '_Newnode': undeclared identifier
+  (compiling source file 'main.cpp')
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(355,21):
+  This diagnostic occurred in the compiler generated function 'game::std::_Tree_node<_Value_type,_Voidptr>::_Nodeptr game::std::_Tree_node<_Value_type,_Voidptr>::_Buynode(_Alloc &,game::std::_Tree_node<_Value_type,_Voidptr>::_Nodeptr,_Valty &&...)'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(360,65): error C2065: '_Newnode': undeclared identifier
+  (compiling source file 'main.cpp')
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(355,21):
+  This diagnostic occurred in the compiler generated function 'game::std::_Tree_node<_Value_type,_Voidptr>::_Nodeptr game::std::_Tree_node<_Value_type,_Voidptr>::_Buynode(_Alloc &,game::std::_Tree_node<_Value_type,_Voidptr>::_Nodeptr,_Valty &&...)'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(361,29): error C2065: '_Newnode': undeclared identifier
+  (compiling source file 'main.cpp')
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(355,21):
+  This diagnostic occurred in the compiler generated function 'game::std::_Tree_node<_Value_type,_Voidptr>::_Nodeptr game::std::_Tree_node<_Value_type,_Voidptr>::_Buynode(_Alloc &,game::std::_Tree_node<_Value_type,_Voidptr>::_Nodeptr,_Valty &&...)'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(362,29): error C2065: '_Newnode': undeclared identifier
+  (compiling source file 'main.cpp')
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(355,21):
+  This diagnostic occurred in the compiler generated function 'game::std::_Tree_node<_Value_type,_Voidptr>::_Nodeptr game::std::_Tree_node<_Value_type,_Voidptr>::_Buynode(_Alloc &,game::std::_Tree_node<_Value_type,_Voidptr>::_Nodeptr,_Valty &&...)'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(363,29): error C2065: '_Newnode': undeclared identifier
+  (compiling source file 'main.cpp')
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(355,21):
+  This diagnostic occurred in the compiler generated function 'game::std::_Tree_node<_Value_type,_Voidptr>::_Nodeptr game::std::_Tree_node<_Value_type,_Voidptr>::_Buynode(_Alloc &,game::std::_Tree_node<_Value_type,_Voidptr>::_Nodeptr,_Valty &&...)'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(364,9): error C2065: '_Newnode': undeclared identifier
+  (compiling source file 'main.cpp')
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(355,21):
+  This diagnostic occurred in the compiler generated function 'game::std::_Tree_node<_Value_type,_Voidptr>::_Nodeptr game::std::_Tree_node<_Value_type,_Voidptr>::_Buynode(_Alloc &,game::std::_Tree_node<_Value_type,_Voidptr>::_Nodeptr,_Valty &&...)'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(365,9): error C2065: '_Newnode': undeclared identifier
+  (compiling source file 'main.cpp')
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(355,21):
+  This diagnostic occurred in the compiler generated function 'game::std::_Tree_node<_Value_type,_Voidptr>::_Nodeptr game::std::_Tree_node<_Value_type,_Voidptr>::_Buynode(_Alloc &,game::std::_Tree_node<_Value_type,_Voidptr>::_Nodeptr,_Valty &&...)'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(366,16): error C2065: '_Newnode': undeclared identifier
+  (compiling source file 'main.cpp')
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(355,21):
+  This diagnostic occurred in the compiler generated function 'game::std::_Tree_node<_Value_type,_Voidptr>::_Nodeptr game::std::_Tree_node<_Value_type,_Voidptr>::_Buynode(_Alloc &,game::std::_Tree_node<_Value_type,_Voidptr>::_Nodeptr,_Valty &&...)'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(371,23): error C3861: 'is_same_v': identifier not found
+  (compiling source file 'main.cpp')
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(370,17):
+  This diagnostic occurred in the compiler generated function 'void game::std::_Tree_node<_Value_type,_Voidptr>::_Freenode0(_Alloc &,game::std::_Tree_node<_Value_type,_Voidptr>::_Nodeptr) noexcept'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(375,9): error C3861: 'allocator_traits': identifier not found
+  (compiling source file 'main.cpp')
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(370,17):
+  This diagnostic occurred in the compiler generated function 'void game::std::_Tree_node<_Value_type,_Voidptr>::_Freenode0(_Alloc &,game::std::_Tree_node<_Value_type,_Voidptr>::_Nodeptr) noexcept'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(380,23): error C3861: 'is_same_v': identifier not found
+  (compiling source file 'main.cpp')
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(379,17):
+  This diagnostic occurred in the compiler generated function 'void game::std::_Tree_node<_Value_type,_Voidptr>::_Freenode(_Alloc &,game::std::_Tree_node<_Value_type,_Voidptr>::_Nodeptr) noexcept'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(381,9): error C3861: 'allocator_traits': identifier not found
+  (compiling source file 'main.cpp')
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(379,17):
+  This diagnostic occurred in the compiler generated function 'void game::std::_Tree_node<_Value_type,_Voidptr>::_Freenode(_Alloc &,game::std::_Tree_node<_Value_type,_Voidptr>::_Nodeptr) noexcept'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(387,29): error C3861: '_Simple_types': identifier not found
+  (compiling source file 'main.cpp')
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(387,29):
+  the template instantiation context (the oldest one first) is
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(387,8):
+  	while compiling class template 'game::std::_Tree_simple_types'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(387,29): error C7568: argument list missing after assumed function template '_Simple_types'
+  (compiling source file 'main.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(387,1): error C3770: 'unknown-type': is not a valid base class
+  (compiling source file 'main.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(417,5): error C3861: '_Xlength_error': identifier not found
+  (compiling source file 'main.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(421,26): error C3861: '_Container_base': identifier not found
+  (compiling source file 'main.cpp')
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(421,26):
+  the template instantiation context (the oldest one first) is
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(421,7):
+  	while compiling class template 'game::std::_Tree_val'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(433,39): error C2923: 'game::std::_Tree_unchecked_const_iterator': '_Iterator_base0' is not a valid template type argument for parameter '_Base'
+  (compiling source file 'main.cpp')
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(24,40):
+  see declaration of '_Iterator_base0'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(503,49): error C2955: 'game::std::_Tree_unchecked_const_iterator': use of class template requires template argument list
+  (compiling source file 'main.cpp')
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(25,7):
+  see declaration of 'game::std::_Tree_unchecked_const_iterator'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(782,32): error C3861: '_Alloc_construct_ptr': identifier not found
+  (compiling source file 'main.cpp')
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(782,32):
+  the template instantiation context (the oldest one first) is
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(782,8):
+  	while compiling class template 'game::std::_Tree_temp_node_alloc'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(782,32): error C7568: argument list missing after assumed function template '_Alloc_construct_ptr'
+  (compiling source file 'main.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(782,1): error C3770: 'unknown-type': is not a valid base class
+  (compiling source file 'main.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(784,53): error C3861: '_Alloc_construct_ptr': identifier not found
+  (compiling source file 'main.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(785,9): error C3861: '_Alloc_construct_ptr': identifier not found
+  (compiling source file 'main.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(795,28): error C7568: argument list missing after assumed function template 'allocator_traits'
+  (compiling source file 'main.cpp')
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(795,28):
+  the template instantiation context (the oldest one first) is
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(793,8):
+  	while compiling class template 'game::std::_Tree_temp_node'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(835,28): error C7568: argument list missing after assumed function template '_Rebind_alloc_t'
+  (compiling source file 'main.cpp')
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(835,28):
+  the template instantiation context (the oldest one first) is
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(828,7):
+  	while compiling class template 'game::std::_Tree'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(836,28): error C7568: argument list missing after assumed function template 'allocator_traits'
+  (compiling source file 'main.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(838,28): error C7568: argument list missing after assumed function template '_Rebind_alloc_t'
+  (compiling source file 'main.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(839,28): error C7568: argument list missing after assumed function template 'allocator_traits'
+  (compiling source file 'main.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(842,48): error C7568: argument list missing after assumed function template '_Is_simple_alloc_v'
+  (compiling source file 'main.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(842,34): error C7568: argument list missing after assumed function template 'conditional_t'
+  (compiling source file 'main.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(847,37): error C3861: 'is_same_v': identifier not found
+  (compiling source file 'main.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(866,72): error C3203: '_Tree_val': unspecialized class template can't be used as a template argument for template parameter '_Mytree', expected a real type
+  (compiling source file 'main.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(866,72): error C1003: error count exceeds 100; stopping compilation
+  (compiling source file 'main.cpp')
+  

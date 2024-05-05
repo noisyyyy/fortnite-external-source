@@ -1,0 +1,25 @@
+-Turn off all anti viruses
+
+-close vanguard
+
+-make sure your on BE
+
+_____________________________________________________
+
+Download medal - (https://medal.tv/download)
+
+download vc runtimes - (https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170)
+
+download direct x - (https://www.microsoft.com/en-ca/download/details.aspx?id=6812)
+
+------------------------------------------------------------------------------------------------------
+
+
+
+- Put in 1 before you enter your license
+- Then when prompted for key Enter your key
+
+
+
+
+                                                       
